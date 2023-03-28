@@ -1,0 +1,4 @@
+[submodule "github-v3"]
+	path = github-v3
+	url = git@github.com:indramahkota/android-client-github-v3.git
+	branch = main
